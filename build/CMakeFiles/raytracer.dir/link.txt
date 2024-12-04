@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/raytracer.dir/raytracer.cpp.o CMakeFiles/raytracer.dir/invert.cpp.o CMakeFiles/raytracer.dir/ppm.cpp.o CMakeFiles/raytracer.dir/InputReader.cpp.o -o raytracer
