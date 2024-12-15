@@ -1,3 +1,2 @@
 # Ray-Tracing
-
-![testSample](https://github.com/user-attachments/assets/282bd116-5f08-4d2a-bec9-3355e0fc40a1)
+![testSample](https://github.com/user-attachments/assets/237ac39a-ab88-4102-aecd-a15bd631e3c3)
